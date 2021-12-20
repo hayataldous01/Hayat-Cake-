@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+h1{
+color:maroon;
+font-size:40pt;
+text-align:center;
+
+}
+</style>
+</head>
+
+
+
+  <body>
+  <center>
+  <table border=1>
+    <tr>
+        <td colspan=4> <h1>Hayat Cake <h1>
+       </td>
+    </tr>
+     <tr>
+<td> <a href="الرئيسة.html">الرئيسة </a>
+</td>
+<td> <a href="قوالب كيك.html"> قوالب كيك </a>
+</td>
+<td> <a href= معجنات , كروسان , مقبلات .html> معجنات , كروسان , مقبلات </a>
+</td>
+<td> <a href= اكسسوارات.html> اكسسوارات </a>
+</td>
+     </tr>
+
+    </table>
+  </body>
+</html>
